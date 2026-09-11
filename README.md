@@ -4,9 +4,6 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>
-        OHANA
-    </title>
 </head>
 <body>
     <img
@@ -14,4 +11,6 @@
         alt="venezuela"
         width="500"
         >
+    <h1>Esta es mi madre pátria.</h1>
+    <p>Vivía en Anaco, Anzoátegui.</p>
 </body>
