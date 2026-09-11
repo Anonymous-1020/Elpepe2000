@@ -4,11 +4,14 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
+    <title>
+        OHANA
+    </title>
 </head>
 <body>
     <img
         src="https://lh3.googleusercontent.com/grass-cs/ACvplmPB1EQqYkUzdn2mLa-Ywja0C7vKNOota6IUMAry7oy2eWs5G9weWcDQff868bf7-biigY96zFfoFaduE8GxdCFFg7n8Wiw8dNkGmPOpBRWN4VWmhmihqWn0hI-g3JuOBieT2FWe=w326-h312-n-k-no"
         alt="venezuela"
-        width="1000"
+        width="500"
         >
 </body>
