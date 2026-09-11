@@ -1,6 +1,7 @@
 # Elpepe2000
 <html>
   <body>
-    <h1>Hola</h1>
+    <h1>Hola, soy Héctor y vengo de Venezuela</h1>
+    <h2>ismael no sabe html</h2>
   </body>
 </html>
