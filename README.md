@@ -1,8 +1,23 @@
 # Elpepe2000
-<html>
-  <body>
-    <h1>Hola, soy Héctor y vengo de Venezuela</h1>
-    <h2>ismael no sabe html</h2>
-    <img src="Hola/mapa-politico-venezuela.PNG" alt="viva venezuela">
-  </body>
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi página con imagen</title>
+</head>
+<body>
+
+    <h1>Mi primera página web</h1>
+
+    <p>Esta es una imagen:</p>
+
+    <img 
+        src="https://picsum.photos/500/300" 
+        alt="Imagen de ejemplo"
+        width="500"
+    >
+
+</body>
 </html>
+```
